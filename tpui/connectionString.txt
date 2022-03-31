@@ -1,0 +1,1 @@
+Server=localhost,1433;Initial Catalog=trip-planner;Persist Security Info=False;User ID=sa;Password=Strong.Pwd-123;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False;Connection Timeout=30;

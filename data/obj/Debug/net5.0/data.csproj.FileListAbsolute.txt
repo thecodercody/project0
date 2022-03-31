@@ -1,0 +1,15 @@
+/Users/codyscholberg/Desktop/projects/trip-planner/data/bin/Debug/net5.0/data.deps.json
+/Users/codyscholberg/Desktop/projects/trip-planner/data/bin/Debug/net5.0/data.dll
+/Users/codyscholberg/Desktop/projects/trip-planner/data/bin/Debug/net5.0/data.pdb
+/Users/codyscholberg/Desktop/projects/trip-planner/data/obj/Debug/net5.0/data.csproj.AssemblyReference.cache
+/Users/codyscholberg/Desktop/projects/trip-planner/data/obj/Debug/net5.0/data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/codyscholberg/Desktop/projects/trip-planner/data/obj/Debug/net5.0/data.AssemblyInfoInputs.cache
+/Users/codyscholberg/Desktop/projects/trip-planner/data/obj/Debug/net5.0/data.AssemblyInfo.cs
+/Users/codyscholberg/Desktop/projects/trip-planner/data/obj/Debug/net5.0/data.csproj.CoreCompileInputs.cache
+/Users/codyscholberg/Desktop/projects/trip-planner/data/obj/Debug/net5.0/data.dll
+/Users/codyscholberg/Desktop/projects/trip-planner/data/obj/Debug/net5.0/ref/data.dll
+/Users/codyscholberg/Desktop/projects/trip-planner/data/obj/Debug/net5.0/data.pdb
+/Users/codyscholberg/Desktop/projects/trip-planner/data/bin/Debug/net5.0/model.dll
+/Users/codyscholberg/Desktop/projects/trip-planner/data/bin/Debug/net5.0/model.pdb
+/Users/codyscholberg/Desktop/projects/trip-planner/data/obj/Debug/net5.0/data.csproj.CopyComplete
+/Users/codyscholberg/Desktop/projects/trip-planner/data/obj/Debug/net5.0/refint/data.dll
